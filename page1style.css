@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 50px 20px 50px;
+    font-size: 60px;
+    font-family: "Apple Color Emoji";
+    text-decoration: line-through;
+    text-decoration-color: aqua;
+    color: red;
+}
+
+p {
+    text-align: right;
+    font-size: 30px;
+    padding-bottom: 100px;
+    font-family: Baskerville;
+}
+
+#bigBaby1 {
+    float: left;
+    width: 100px;
+
+}
+
+#bigBaby2 {
+    float: right;
+    width: 100px;
+
+}
+
+#bigBaby3 {
+    float: bottom;
+    width: 100px;
+
+}
+
+
+

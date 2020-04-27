@@ -1,0 +1,32 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+    margin: 50px 20px 50px;
+    font-size: 60px;
+    font-family: "American Typewriter";
+    text-decoration-color: blueviolet;
+    color: darkolivegreen;
+}
+
+h2{
+    text-align: left;
+    position: fixed;
+    left:600px;
+    bottom: 400px;
+    border-style: double;
+    border-width: thick;
+    border-color: black;
+
+}
+h3{
+    text-align: center;
+    position: fixed;
+    left: 650px;
+    bottom: 300px;
+    border-style: double;
+    border-width: thick;
+    border-color: black;
+}
